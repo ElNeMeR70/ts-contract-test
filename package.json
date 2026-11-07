@@ -1,0 +1,20 @@
+{
+  "name": "ts-contract-test",
+  "version": "1.0.0",
+  "description": "Consumer-driven contract testing (Pact-compatible)",
+  "main": "main.ts",
+  "scripts": {
+    "start": "npx tsx main.ts"
+  },
+  "keywords": ["typescript", "contract-testing", "pact", "api", "testing"],
+  "author": "Mahmoud ElNemer <sultanelnemer@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ElNeMeR70/ts-contract-test.git"
+  },
+  "devDependencies": {
+    "tsx": "^4.0.0",
+    "typescript": "^5.0.0"
+  }
+}
